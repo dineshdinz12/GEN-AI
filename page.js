@@ -1,6 +1,6 @@
 const AIHelper = require('./helper');
 
-const apiKey ="AIzaSyCuHh58nrNEtJ_ru7YKqDZ4uQttcX8bvWM";
+const apiKey ="api_key";
 const aiHelper = new AIHelper(apiKey);
 
 async function run() {
