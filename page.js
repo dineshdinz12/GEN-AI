@@ -1,6 +1,6 @@
 const AIHelper = require('./helper');
 const { z } = require('zod');
-const aiHelper = new AIHelper("google","AIzaSyCuHh58nrNEtJ_ru7YKqDZ4uQttcX8bvWM");
+const aiHelper = new AIHelper("google","api_key");
 
 async function run() {
 
